@@ -1,70 +1,52 @@
-# Getting Started with Create React App
+# CodePen Clone Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the CodePen Clone Project! This web application aims to replicate the functionality of CodePen, allowing users to write, share, and preview HTML, CSS, and JavaScript code snippets in an interactive environment.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+### Code Editor
 
-### `npm start`
+- **Multi-Language Support:** Users can write and edit HTML, CSS, and JavaScript code in separate editor panels, allowing them to work on multiple languages simultaneously.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **Syntax Highlighting:** The code editors feature syntax highlighting to enhance readability and make coding easier.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **Auto-Completion:** Code suggestions and auto-completion options are provided to assist users while writing code.
 
-### `npm test`
+### Preview Pane
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **Live Preview:** As users type code in the editor, the preview pane updates in real-time to show how the code changes affect the rendered output.
 
-### `npm run build`
+- **Interactive Output:** Users can see how their code behaves and looks in an interactive and dynamic environment.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Responsive Design
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- **Adaptable Layout:** The project's interface is designed to be responsive, ensuring a seamless experience across various devices and screen sizes.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Technologies Used
 
-### `npm run eject`
+- HTML
+- CSS (including Flexbox for layout)
+- JavaScript
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## URL : https://ritwik214.github.io/frontend-Editor/
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+How the CodePen Clone Project Works
+1. Landing Page
+When users visit the landing page of your CodePen clone, they are presented with a user interface resembling the CodePen website. The interface consists of various sections that allow users to write, edit, and preview HTML, CSS, and JavaScript code snippets.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+2. Code Editor
+Multi-Language Support: Users can switch between HTML, CSS, and JavaScript tabs to access separate code editor panels for each language.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Syntax Highlighting: The code editors are equipped with syntax highlighting, making it easier for users to read and write code by visually distinguishing different elements.
 
-## Learn More
+Auto-Completion: While typing, users receive code suggestions and auto-completion options to streamline the coding process.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+3. Preview Pane
+Live Preview: As users type code in the editor panels, the preview pane updates in real-time, showing how the code changes immediately affect the rendered output.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Interactive Output: Users can interact with the output in the preview pane, such as clicking buttons or links, to see how their code behaves in an interactive environment.
 
-### Code Splitting
+4. Responsive Design
+The CodePen clone project is designed with responsiveness in mind:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Adaptable Layout: The interface layout is responsive, ensuring that it looks and functions well across different devices and screen sizes, similar to CodePen's behavior.
